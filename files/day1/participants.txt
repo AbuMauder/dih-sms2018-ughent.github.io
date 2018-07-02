@@ -1,6 +1,6 @@
-Amenah Fairouz Abdulkarim
+﻿Amenah Fairouz Abdulkarim
 Anthony T. Quickel
-Christian Mauder
+Christian Mauder University of Leipzig
 Konrad Hirschler
 David Larsen
 Elise Franssen
@@ -8,7 +8,7 @@ Iria Santas
 Karima Benaicha
 Kate Tuley
 Meia Walravens
-Gowaart Van Den Bossche
+Gowaart Van Den Bossche Ghent University
 Shuaib Ally
 Stephanie Luescher
 Víctor De Castro León
